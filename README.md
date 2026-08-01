@@ -89,54 +89,7 @@
 
 <div align="center">
 
-<svg viewBox="0 0 480 265" xmlns="http://www.w3.org/2000/svg" width="100%">
-  <defs>
-    <linearGradient id="tb1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#61AFEF"/><stop offset="100%" stop-color="#98C379"/>
-    </linearGradient>
-    <linearGradient id="tb2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#98C379"/><stop offset="100%" stop-color="#E5C07B"/>
-    </linearGradient>
-    <linearGradient id="tb3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C678DD"/><stop offset="100%" stop-color="#61AFEF"/>
-    </linearGradient>
-  </defs>
-
-  <rect x="10" y="10" width="460" height="245" rx="12" fill="#0D1117"/>
-  <rect x="10" y="10" width="460" height="245" rx="12" fill="none" stroke="#30363D" stroke-width="1.5"/>
-
-  <text x="24" y="42" fill="#E5C07B" font-family="Consolas, monospace" font-size="16" font-weight="bold">MY TOOLKIT</text>
-
-  <text x="24" y="78" fill="#8B949E" font-family="Consolas, monospace" font-size="13">React</text>
-  <rect x="24" y="86" width="360" height="10" rx="5" fill="#21262D"/>
-  <rect x="24" y="86" width="0" height="10" rx="5" fill="url(#tb1)">
-    <animate attributeName="width" from="0" to="324" dur="1.2s" begin="0.2s" fill="freeze"/>
-  </rect>
-
-  <text x="24" y="118" fill="#8B949E" font-family="Consolas, monospace" font-size="13">Next.js</text>
-  <rect x="24" y="126" width="360" height="10" rx="5" fill="#21262D"/>
-  <rect x="24" y="126" width="0" height="10" rx="5" fill="url(#tb1)">
-    <animate attributeName="width" from="0" to="306" dur="1.2s" begin="0.5s" fill="freeze"/>
-  </rect>
-
-  <text x="24" y="158" fill="#8B949E" font-family="Consolas, monospace" font-size="13">TypeScript</text>
-  <rect x="24" y="166" width="360" height="10" rx="5" fill="#21262D"/>
-  <rect x="24" y="166" width="0" height="10" rx="5" fill="url(#tb2)">
-    <animate attributeName="width" from="0" to="288" dur="1.2s" begin="0.8s" fill="freeze"/>
-  </rect>
-
-  <text x="24" y="198" fill="#8B949E" font-family="Consolas, monospace" font-size="13">MongoDB</text>
-  <rect x="24" y="206" width="360" height="10" rx="5" fill="#21262D"/>
-  <rect x="24" y="206" width="0" height="10" rx="5" fill="url(#tb3)">
-    <animate attributeName="width" from="0" to="270" dur="1.2s" begin="1.1s" fill="freeze"/>
-  </rect>
-
-  <text x="24" y="238" fill="#8B949E" font-family="Consolas, monospace" font-size="13">Node.js</text>
-  <rect x="24" y="246" width="360" height="10" rx="5" fill="#21262D"/>
-  <rect x="24" y="246" width="0" height="10" rx="5" fill="url(#tb2)">
-    <animate attributeName="width" from="0" to="252" dur="1.2s" begin="1.4s" fill="freeze"/>
-  </rect>
-</svg>
+<img src="https://raw.githubusercontent.com/GaghanCode/Gaghancode/main/assets/toolkit.svg?v=1" alt="My Toolkit" />
 
 </div>
 
