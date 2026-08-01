@@ -89,8 +89,7 @@
 
 <div align="center">
 
-[![Gaghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaghanCode&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=onedark)](https://github.com/GaghanCode)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaghanCode&layout=compact&theme=onedark)](https://github.com/GaghanCode)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GaghanCode&theme=onedark)](https://github.com/GaghanCode)
 
 </div>
 
