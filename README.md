@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GaghanCode/Gaghancode/main/assets/principles.svg" alt="What Drives Me" width="420" />
+<img src="https://raw.githubusercontent.com/GaghanCode/Gaghancode/main/assets/tagline.svg" alt="Tagline" width="640" />
 
 </div>
 

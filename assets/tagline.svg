@@ -1,0 +1,16 @@
+<svg viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-400 0" to="400 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <text x="350" y="45" fill="#8B949E" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="600" text-anchor="middle">
+    Building clean, scalable web experiences.
+  </text>
+
+  <rect x="150" y="62" width="400" height="3" rx="1.5" fill="url(#shimmer)"/>
+</svg>
