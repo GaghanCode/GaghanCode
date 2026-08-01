@@ -85,51 +85,56 @@
 
 ---
 
-## 🚀 What I Do
+## 🛠️ What I Build With
 
 <div align="center">
 
-<svg viewBox="0 0 720 190" xmlns="http://www.w3.org/2000/svg" width="100%">
+<svg viewBox="0 0 480 265" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
-    <linearGradient id="codeAccent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#7C4DFF"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;0%;100%" dur="6s" repeatCount="indefinite"/>
+    <linearGradient id="tb1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#61AFEF"/><stop offset="100%" stop-color="#98C379"/>
+    </linearGradient>
+    <linearGradient id="tb2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#98C379"/><stop offset="100%" stop-color="#E5C07B"/>
+    </linearGradient>
+    <linearGradient id="tb3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C678DD"/><stop offset="100%" stop-color="#61AFEF"/>
     </linearGradient>
   </defs>
 
-  <rect x="10" y="10" width="700" height="170" rx="14" fill="#0D1117"/>
-  <rect x="10" y="10" width="700" height="170" rx="14" fill="none" stroke="#30363D" stroke-width="1.5"/>
-  <rect x="10" y="10" width="700" height="3" rx="1.5" fill="url(#codeAccent)"/>
+  <rect x="10" y="10" width="460" height="245" rx="12" fill="#0D1117"/>
+  <rect x="10" y="10" width="460" height="245" rx="12" fill="none" stroke="#30363D" stroke-width="1.5"/>
 
-  <text x="36" y="52" fill="#58A6FF" font-family="Consolas, monospace" font-size="15" opacity="0">
-    const build = () =&gt; {
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.3s" fill="freeze"/>
-  </text>
+  <text x="24" y="42" fill="#E5C07B" font-family="Consolas, monospace" font-size="16" font-weight="bold">MY TOOLKIT</text>
 
-  <text x="56" y="80" fill="#8B949E" font-family="Consolas, monospace" font-size="15" opacity="0">
-    create('full-stack web apps');
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1s" fill="freeze"/>
-  </text>
+  <text x="24" y="78" fill="#8B949E" font-family="Consolas, monospace" font-size="13">React</text>
+  <rect x="24" y="86" width="360" height="10" rx="5" fill="#21262D"/>
+  <rect x="24" y="86" width="0" height="10" rx="5" fill="url(#tb1)">
+    <animate attributeName="width" from="0" to="324" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </rect>
 
-  <text x="56" y="108" fill="#8B949E" font-family="Consolas, monospace" font-size="15" opacity="0">
-    deploy('faster with AI');
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.7s" fill="freeze"/>
-  </text>
+  <text x="24" y="118" fill="#8B949E" font-family="Consolas, monospace" font-size="13">Next.js</text>
+  <rect x="24" y="126" width="360" height="10" rx="5" fill="#21262D"/>
+  <rect x="24" y="126" width="0" height="10" rx="5" fill="url(#tb1)">
+    <animate attributeName="width" from="0" to="306" dur="1.2s" begin="0.5s" fill="freeze"/>
+  </rect>
 
-  <text x="56" y="136" fill="#8B949E" font-family="Consolas, monospace" font-size="15" opacity="0">
-    ship('quality, always');
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.4s" fill="freeze"/>
-  </text>
+  <text x="24" y="158" fill="#8B949E" font-family="Consolas, monospace" font-size="13">TypeScript</text>
+  <rect x="24" y="166" width="360" height="10" rx="5" fill="#21262D"/>
+  <rect x="24" y="166" width="0" height="10" rx="5" fill="url(#tb2)">
+    <animate attributeName="width" from="0" to="288" dur="1.2s" begin="0.8s" fill="freeze"/>
+  </rect>
 
-  <text x="36" y="164" fill="#58A6FF" font-family="Consolas, monospace" font-size="15" opacity="0">
-    };
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.1s" fill="freeze"/>
-  </text>
+  <text x="24" y="198" fill="#8B949E" font-family="Consolas, monospace" font-size="13">MongoDB</text>
+  <rect x="24" y="206" width="360" height="10" rx="5" fill="#21262D"/>
+  <rect x="24" y="206" width="0" height="10" rx="5" fill="url(#tb3)">
+    <animate attributeName="width" from="0" to="270" dur="1.2s" begin="1.1s" fill="freeze"/>
+  </rect>
 
-  <rect x="160" y="155" width="9" height="18" fill="#58A6FF">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="3.1s" repeatCount="indefinite"/>
+  <text x="24" y="238" fill="#8B949E" font-family="Consolas, monospace" font-size="13">Node.js</text>
+  <rect x="24" y="246" width="360" height="10" rx="5" fill="#21262D"/>
+  <rect x="24" y="246" width="0" height="10" rx="5" fill="url(#tb2)">
+    <animate attributeName="width" from="0" to="252" dur="1.2s" begin="1.4s" fill="freeze"/>
   </rect>
 </svg>
 
