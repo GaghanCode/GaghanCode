@@ -1,7 +1,57 @@
 <div align="center">
 
 <!-- ANIMATED HEADER SVG -->
-<img alt="GAGHAN AM" src="https://raw.githubusercontent.com/GaghanCode/Gaghancode/main/assets/header.svg" />
+<svg width="100%" height="auto" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7C4DFF"/>
+      <stop offset="100%" stop-color="#FF2E97"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" fill="#0D1117" rx="20"/>
+
+  <circle cx="120" cy="60" r="3" fill="#00E5FF" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="90" r="2" fill="#7C4DFF" opacity="0.6">
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="180" r="2.5" fill="#00E5FF" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="200" r="2" fill="#FF2E97" opacity="0.6">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="450" y="105" fill="url(#titleGrad)" font-family="'Segoe UI', Arial, sans-serif" font-size="92" font-weight="900" text-anchor="middle" letter-spacing="4">
+    GAGHAN AM
+  </text>
+
+  <line x1="100" y1="130" x2="800" y2="130" stroke="url(#lineGrad)" stroke-width="2"/>
+
+  <text x="450" y="175" fill="#8B949E" font-family="'Consolas', monospace" font-size="22" text-anchor="middle" letter-spacing="3">
+    FULL-STACK WEB DEVELOPER
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="450" y="215" fill="#8B949E" font-family="'Consolas', monospace" font-size="16" text-anchor="middle" letter-spacing="2">
+    Next.js &#8226; React &#8226; TypeScript &#8226; JavaScript &#8226; MongoDB
+  </text>
+
+  <text x="450" y="248" fill="#00E5FF" font-family="'Consolas', monospace" font-size="13" text-anchor="middle">
+    &lt;code&gt; welcome to my universe &lt;/code&gt;
+    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
 <br/>
 
