@@ -29,22 +29,22 @@
     <animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="450" y="90" fill="url(#titleGrad)" font-family="'Segoe UI', Arial, sans-serif" font-size="62" font-weight="800" text-anchor="middle" letter-spacing="6">
+  <text x="450" y="105" fill="url(#titleGrad)" font-family="'Segoe UI', Arial, sans-serif" font-size="92" font-weight="900" text-anchor="middle" letter-spacing="4">
     GAGHAN AM
   </text>
 
-  <line x1="150" y1="115" x2="750" y2="115" stroke="url(#lineGrad)" stroke-width="2"/>
+  <line x1="100" y1="130" x2="800" y2="130" stroke="url(#lineGrad)" stroke-width="2"/>
 
-  <text x="450" y="160" fill="#8B949E" font-family="'Consolas', monospace" font-size="20" text-anchor="middle" letter-spacing="3">
+  <text x="450" y="175" fill="#8B949E" font-family="'Consolas', monospace" font-size="22" text-anchor="middle" letter-spacing="3">
     FULL-STACK WEB DEVELOPER
     <animate attributeName="opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite"/>
   </text>
 
-  <text x="450" y="200" fill="#8B949E" font-family="'Consolas', monospace" font-size="15" text-anchor="middle" letter-spacing="2">
+  <text x="450" y="215" fill="#8B949E" font-family="'Consolas', monospace" font-size="16" text-anchor="middle" letter-spacing="2">
     Next.js &#8226; React &#8226; TypeScript &#8226; JavaScript &#8226; MongoDB
   </text>
 
-  <text x="450" y="235" fill="#00E5FF" font-family="'Consolas', monospace" font-size="12" text-anchor="middle">
+  <text x="450" y="248" fill="#00E5FF" font-family="'Consolas', monospace" font-size="13" text-anchor="middle">
     &lt;code&gt; welcome to my universe &lt;/code&gt;
     <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
   </text>
