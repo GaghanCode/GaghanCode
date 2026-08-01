@@ -85,11 +85,11 @@
 
 ---
 
-## 🛠️ What I Build With
+## 💡 What Drives Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GaghanCode/Gaghancode/main/assets/toolkit.svg?v=1" alt="My Toolkit" />
+<img src="https://raw.githubusercontent.com/GaghanCode/Gaghancode/main/assets/toolkit.svg?v=2" alt="What Drives Me" />
 
 </div>
 
