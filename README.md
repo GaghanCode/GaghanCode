@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaghanCode/GaghanCode/main/assets/header.svg">
-  <img alt="GAGHAN AM" src="https://raw.githubusercontent.com/GaghanCode/GaghanCode/main/assets/header.svg">
-</picture>
+<img alt="GAGHAN AM" src="https://raw.githubusercontent.com/GaghanCode/Gaghancode/main/assets/header.svg" />
 
 <br/>
 
