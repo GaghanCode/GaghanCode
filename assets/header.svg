@@ -41,7 +41,7 @@
   </text>
 
   <text x="450" y="200" fill="#8B949E" font-family="'Consolas', monospace" font-size="15" text-anchor="middle" letter-spacing="2">
-    Next.js &bull; React &bull; TypeScript &bull; JavaScript &bull; MongoDB
+    Next.js &#8226; React &#8226; TypeScript &#8226; JavaScript &#8226; MongoDB
   </text>
 
   <text x="450" y="235" fill="#00E5FF" font-family="'Consolas', monospace" font-size="12" text-anchor="middle">
